@@ -135,3 +135,4 @@ The application includes an integrated **Mode Switch** in the top navigation bar
 Designed and developed for academic project defense, college demonstrations, and portfolio showcase. Released under the MIT License.
 "# DRIP-Syndrome-Frontend" 
 "# DRIP-Syndrome-Frontend" 
+"# DRIP-Syndrome-Frontend" 
